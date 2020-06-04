@@ -8,7 +8,7 @@ Recoil [https://recoiljs.org/](https://recoiljs.org/)
 
 [Recoil started](https://recoiljs.org/docs/introduction/getting-started/) for more information.
 
-## Usage
+## Usage this app
 
 - Clone
 ```
