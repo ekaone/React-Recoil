@@ -10,14 +10,18 @@ Recoil [https://recoiljs.org/](https://recoiljs.org/)
 
 ## Usage
 
-- Install
+- Clone
+```
+git clone https://github.com/ekaone/react-recoil.git
+cd react-recoil
+```
 
+- Install
 ```
 npm install
 ```
 
 - Run on http://localhost:3000
-
 ```
 npm start
 ```
