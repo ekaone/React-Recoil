@@ -11,8 +11,10 @@ export default function CharacterCounter() {
 }
 
 const textState = atom({
-  key: "textState", // unique ID (with respect to other atoms/selectors)
-  default: "" // default value (aka initial value)
+  // unique ID (with respect to other atoms/selectors)
+  key: "textState",
+  // default value (aka initial value)
+  default: ""
 });
 
 function TextInput() {
@@ -32,7 +34,8 @@ function TextInput() {
 }
 
 const charCountState = selector({
-  key: "charCountState", // unique ID (with respect to other atoms/selectors)
+  // unique ID (with respect to other atoms/selectors)
+  key: "charCountState",
   get: ({ get }) => {
     const text = get(textState);
 
