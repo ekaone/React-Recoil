@@ -27,4 +27,5 @@ npm start
 ```
 
 ## Author
-Welcome my [Blog](https://www.ekaprasetia.com/)
+Eka Prasetia 
+> 📖 [Blog](https://www.ekaprasetia.com/)
