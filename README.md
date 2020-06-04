@@ -4,6 +4,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Recoil [https://recoiljs.org/](https://recoiljs.org/)
 
-### Get Started
+## Get Started
 
 [Recoil started](https://recoiljs.org/docs/introduction/getting-started/) for more information.
+
+## Usage
+
+- Install
+
+```
+npm install
+```
+
+- Run on http://localhost:3000
+
+```
+npm start
+```
