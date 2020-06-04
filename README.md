@@ -25,3 +25,6 @@ npm install
 ```
 npm start
 ```
+
+## Author
+Welcome my [Blog](https://www.ekaprasetia.com/)
