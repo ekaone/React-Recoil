@@ -3,12 +3,15 @@
 Recoil [https://recoiljs.org/](https://recoiljs.org/)
 
 > Minimal and Reactish
+> 
 Recoil works and thinks like React. Add some to your app and get fast and flexible shared state.
 
 > Data-Flow Graph
+
 Derived data and asynchronous queries are tamed with pure functions and efficient subscriptions.
 
 > Cross-App Observation
+
 Implement persistence, routing, time-travel debugging, or undo by observing all state changes across your app, without impairing code-splitting.
 
 ## Get Started
